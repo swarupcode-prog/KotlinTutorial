@@ -2,6 +2,8 @@
 /*
 *   Class, Primary Constructor, Secondary Constructor and Init Block
 * */
+
+** When we use var with name  it basically makes it the property of the class **
 fun main(args: Array<String>) {
 
     var student = Student("Steve", 10)
